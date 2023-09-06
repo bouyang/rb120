@@ -1,0 +1,2 @@
+# The go_fast method in the Speed module will output the variable self.class which, based on whatever object calls the go_fast method, (eg. Car or Truck), that class value will be
+# referenced and thus printed in the self.class value
